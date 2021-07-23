@@ -1,0 +1,7 @@
+"""
+
+Need abstract condition.
+
+"""
+
+class 

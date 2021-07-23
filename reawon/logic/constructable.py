@@ -1,0 +1,4 @@
+class Constructable(
+    Programmable,
+):
+    pass

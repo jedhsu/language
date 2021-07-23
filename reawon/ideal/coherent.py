@@ -1,0 +1,4 @@
+class Coherent(
+    Semantics,
+):
+    pass

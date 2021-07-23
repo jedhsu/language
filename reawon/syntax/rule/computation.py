@@ -1,0 +1,2 @@
+class ComputationRule(Rule):
+    pass

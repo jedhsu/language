@@ -1,0 +1,4 @@
+class Semantic(
+    Definable,
+):
+    pass
