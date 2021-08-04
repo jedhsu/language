@@ -1,5 +1,5 @@
 """
-    
+
     *Abstract Type Of*
 
     In a way, a type is a fixed mapping.

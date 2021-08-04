@@ -2,10 +2,14 @@
 
     *Operator*
 
+  A "generalized function.
+
+  [TODO long] Need category theory for technically precise definition.
+
 """
+
+from abc import ABCMeta
 
 
 class Operator:
-    # [TODO] ooh this is tricky...
-    def get_closure_under_property(self) -> type:
-        pass
+    __metaclass__ = ABCMeta

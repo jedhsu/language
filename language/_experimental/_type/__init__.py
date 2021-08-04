@@ -1,5 +1,7 @@
 """
 
+This is just dependent typing on further exploration.
+
 Due to the flexibility of types, should they even be called
 type anymore? Rather than just some other terminology?
 

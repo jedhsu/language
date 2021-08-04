@@ -1,6 +1,8 @@
 """
 
-    *Type*
+    *Variable Operator*
+
+  Operate a variable.
 
 """
 
@@ -8,10 +10,10 @@ from abc import ABCMeta
 
 from language.operator import Operator
 
-__all__ = ["Type"]
+__all__ = ["VariableOperator"]
 
 
-class Type(
+class VariableOperator(
     Operator,
 ):
     __metaclass__ = ABCMeta

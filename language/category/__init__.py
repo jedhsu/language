@@ -6,8 +6,8 @@
 
 """
 
-from ._category import AbstractCategory
+from ._category import Category
 
 __all__ = [
-    "AbstractType",
+    "Category",
 ]
