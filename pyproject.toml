@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "repository"
+name = "language"
 version = "0.1.0"
 description = "Speccing concepts from type theory as a learning approach."
 authors = ["jedhsu <jedhsu@pm.me>"]
